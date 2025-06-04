@@ -3,7 +3,7 @@
 <h3 align="center" >RGR MINI BOT</h3>
 
 <p align="center">
-<img src="https://i.ibb.co/xKP86zV5/Manul-Ofc-X.jpg" height="90" width="100%">
+<img src="https://i.ibb.co/xKP86zV5/Manul-Ofc-X.jpg" height="100%" width="100%">
    
 <div align="left">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik+Dirt&size=65&pause=1000&color=F72C3F&background=FF20A500&center=true&vCenter=true&width=1000&height=150&lines=RGR+WHATSAPP+MINI+BOT;CREATED+BY;GEENETH🩷" alt="Typing SVG" /></a>   
@@ -15,7 +15,7 @@
   </a>
 
 
-<img src="https://i.ibb.co/PGk9tMKh/Manul-Ofc-X.jpg">
+<img src="https://i.ibb.co/xKP86zV5/Manul-Ofc-X.jpg">
 
 ### Workflow Deploy Code 📡🩷👇
 
